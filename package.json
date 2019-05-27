@@ -1,0 +1,20 @@
+{
+  "name": "assessment-backend",
+  "version": "1.0.0",
+  "description": "Criamos esse teste para avaliar seus conhecimentos e habilidades como desenvolvedor backend.",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.18.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/vitancourt/assessment-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/vitancourt/assessment-backend#readme"
+}
